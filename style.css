@@ -1,0 +1,79 @@
+/*
+font-family: 'Yellowtail', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Crimson Text', serif;
+
+font-family: 'Anton', sans-serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yellowtail', cursive;
+*/
+#logo-img, #face {
+  float:left;
+}
+#logo-img {
+  width: 10%;
+  height: 10%;
+}
+#face {
+  margin-right: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#logo-link {
+  display: inline-block;
+  width: 35%;
+  text-decoration: none;
+}
+header h1 {
+  font-family: 'Yellowtail', cursive;
+  font-weight: bold;
+  font-style:italic;
+}
+footer h3, footer p {
+  font-family: 'Crimson Text', serif;
+}
+header h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 60%;
+  text-transform: uppercase;
+}
+footer article {
+  display: inline-block;
+}
+footer article p, footer article h3 {
+  margin: 0;
+}
+footer article h3 {
+  margin: 8px 0;
+}
+#share-recipe {
+  float: right;
+  margin: 2%;
+  margin-right: 0;
+  padding: 10px 20px;
+  font-family: 'Roboto', sans-serif;
+  color: #D4D4D4;
+  text-transform: uppercase;
+  background-color: #A63C00;
+  border: none;
+}
+#header-nav {
+  float: right;
+}
+.funky-line {
+  display: inline-block;
+  height: 5px;
+  width: 100%;
+  background-image: url('img/hr-img.png');
+}
+nav span {
+  display: inline-block;
+  width: 10px;
+}
+h1, h4 {
+  margin: 0;
+}
