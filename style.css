@@ -74,6 +74,7 @@ header h4 {
   font-family: 'Roboto', sans-serif;
   font-size: 60%;
   text-transform: uppercase;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -115,11 +116,6 @@ footer article h3 {
   height: 8px;
   width: 100%;
   background-image: url('img/hr-img.png');
-}
-
-.funky-line.first{
-  margin-bottom: 20px;
-  margin-top: 10px
 }
 
 nav span {
