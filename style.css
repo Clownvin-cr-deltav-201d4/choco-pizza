@@ -16,7 +16,7 @@ body{
 }
 
 nav a img{
-  margin-top: 15px;
+  margin: 15px -1px;
 }
 
 span.tab {
@@ -35,7 +35,8 @@ span.tab {
 }
 
 #face {
-  margin-right: 10px;
+  margin: 10px 10px 0 0;
+  width: 6%;
 }
 
 .clearfix::after {
@@ -75,6 +76,11 @@ header h4 {
   text-transform: uppercase;
 }
 
+h2 {
+  font-family: 'Anton', sans-serif;
+  margin-bottom: 0;
+}
+
 footer article {
   display: inline-block;
 }
@@ -84,7 +90,8 @@ footer article p, footer article h3 {
 }
 
 footer article h3 {
-  margin: 8px 0;
+  margin: 8px 0 0 0;
+  font-size: 17px;
 }
 
 #share-recipe {
@@ -161,7 +168,7 @@ img.main-img {
 .list-container {
   background-color: #ffffcc;
   background: url('img/list-bg.png');
-  padding: 10px 0 50px 0;
+  padding: 22px 0 50px 0;
   margin: 20px 0;
   height: 115px;
   border-bottom: solid 3px grey;
