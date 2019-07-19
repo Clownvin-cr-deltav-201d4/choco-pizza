@@ -11,6 +11,10 @@ font-family: 'Yellowtail', cursive;
 #logo-img, #face {
   float:left;
 }
+#logo-img {
+  width: 10%;
+  height: 10%;
+}
 #face {
   margin-right: 10px;
 }
