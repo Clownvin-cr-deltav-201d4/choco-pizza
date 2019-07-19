@@ -80,6 +80,7 @@ header h4 {
 h2 {
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
+  font-weight: 200;
 }
 
 footer article {
