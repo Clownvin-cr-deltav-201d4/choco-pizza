@@ -1,0 +1,51 @@
+#logo-img, #face {
+  display: inline-block;
+  float:left;
+}
+#logo-link {
+  display: inline-block;
+  width: 35%;
+}
+footer article {
+  display: inline-block;
+}
+footer article p, footer article h3 {
+  margin: 0;
+}
+footer article h3 {
+  margin-bottom: 10px;
+}
+#share-recipe {
+  float: right;
+  margin: 2%;
+  margin-right: 0;
+}
+#header-nav {
+  float: right;
+}
+.funky-line {
+  display: inline-block;
+  height: 5px;
+  width: 100%;
+  background-image: url('img/hr-img.png');
+}
+nav span {
+  display: inline-block;
+  width: 10px;
+}
+h1, h4 {
+  margin: 0;
+}
+
+/*<!DOCTYPE html>
+  <footer>
+    <img id='face' src="img/van-pic">
+    <article >
+      <h3>Vanessa Stevenson</h3>
+      <p>Food enthusiast, photography fan. Add a pinch of raw foodism and that's pretty much who I am.</p>
+    </article>
+    <button id="share-recipe">Share Recipe</button>
+  </footer>
+</body>
+</html>
+*/
