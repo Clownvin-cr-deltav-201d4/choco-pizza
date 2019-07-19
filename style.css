@@ -19,6 +19,10 @@ nav a img{
   margin-top: 15px;
 }
 
+span.tab {
+  margin-left: 25px;
+}
+
 #logo-img, #face {
   float: left;
 }
