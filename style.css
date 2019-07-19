@@ -50,8 +50,8 @@ span.tab {
   text-decoration: none;
 }
 
-.logo-div{
-  display: inline-block;
+.logo-div h1, .logo-div h4{
+  height: 25px;
 }
 
 
@@ -139,8 +139,8 @@ li {
 }
 
 .print {
-    float: right;
-    display: inline-block;
+  float: right;
+  display: inline-block;
 }
 
 .print-icon {
@@ -148,7 +148,7 @@ li {
 }
 
 img.main-img {
-    width: 100%;
+  width: 100%;
 }
 
 .hero {
