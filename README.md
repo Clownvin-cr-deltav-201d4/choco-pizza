@@ -1,7 +1,7 @@
 # deltav-201d4-lab-10a
 <h1 id="lab---number">LAB - 10</h1>
 
-<h2 id="project-name">Chocolate Pizza/h2>
+<h2 id="project-name">Chocolate Pizza</h2>
 
 <h3 id="author-studentgroup-name">Author: Akira & Calvin</h3>
 
